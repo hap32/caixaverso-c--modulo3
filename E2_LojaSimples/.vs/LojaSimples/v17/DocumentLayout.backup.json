@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|c:\\users\\hap32\\source\\repos\\lojasimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|c:\\users\\hap32\\source\\repos\\lojasimples\\domain\\entregaexpressa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|solutionrelative:domain\\entregaexpressa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|c:\\users\\hap32\\source\\repos\\lojasimples\\domain\\entreganormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|solutionrelative:domain\\entreganormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|c:\\users\\hap32\\source\\repos\\lojasimples\\domain\\entregabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|solutionrelative:domain\\entregabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|c:\\users\\hap32\\source\\repos\\lojasimples\\domain\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|solutionrelative:domain\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|c:\\users\\hap32\\source\\repos\\lojasimples\\domain\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|solutionrelative:domain\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|c:\\users\\hap32\\source\\repos\\lojasimples\\domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA09F941-5D71-4A4F-876A-E226520E984E}|LojaSimples.csproj|solutionrelative:domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T01:02:00.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntregaExpressa.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\EntregaExpressa.cs",
+              "RelativeDocumentMoniker": "Domain\\EntregaExpressa.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\EntregaExpressa.cs",
+              "RelativeToolTip": "Domain\\EntregaExpressa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T00:58:58.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntregaNormal.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\EntregaNormal.cs",
+              "RelativeDocumentMoniker": "Domain\\EntregaNormal.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\EntregaNormal.cs",
+              "RelativeToolTip": "Domain\\EntregaNormal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T00:53:42.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntregaBase.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\EntregaBase.cs",
+              "RelativeDocumentMoniker": "Domain\\EntregaBase.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\EntregaBase.cs",
+              "RelativeToolTip": "Domain\\EntregaBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T00:49:11.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\Carrinho.cs",
+              "RelativeDocumentMoniker": "Domain\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\Carrinho.cs",
+              "RelativeToolTip": "Domain\\Carrinho.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T00:16:23.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemCarrinho.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\ItemCarrinho.cs",
+              "RelativeDocumentMoniker": "Domain\\ItemCarrinho.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\ItemCarrinho.cs",
+              "RelativeToolTip": "Domain\\ItemCarrinho.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:52:46.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\Produto.cs",
+              "RelativeDocumentMoniker": "Domain\\Produto.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\LojaSimples\\Domain\\Produto.cs",
+              "RelativeToolTip": "Domain\\Produto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:46:57.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

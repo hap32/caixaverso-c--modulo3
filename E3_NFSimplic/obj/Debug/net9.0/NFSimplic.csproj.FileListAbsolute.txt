@@ -1,0 +1,14 @@
+C:\Users\hap32\source\repos\NFSimplic\bin\Debug\net9.0\NFSimplic.exe
+C:\Users\hap32\source\repos\NFSimplic\bin\Debug\net9.0\NFSimplic.deps.json
+C:\Users\hap32\source\repos\NFSimplic\bin\Debug\net9.0\NFSimplic.runtimeconfig.json
+C:\Users\hap32\source\repos\NFSimplic\bin\Debug\net9.0\NFSimplic.dll
+C:\Users\hap32\source\repos\NFSimplic\bin\Debug\net9.0\NFSimplic.pdb
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\NFSimplic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\NFSimplic.AssemblyInfoInputs.cache
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\NFSimplic.AssemblyInfo.cs
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\NFSimplic.csproj.CoreCompileInputs.cache
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\NFSimplic.dll
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\refint\NFSimplic.dll
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\NFSimplic.pdb
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\NFSimplic.genruntimeconfig.cache
+C:\Users\hap32\source\repos\NFSimplic\obj\Debug\net9.0\ref\NFSimplic.dll

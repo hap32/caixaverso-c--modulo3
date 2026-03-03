@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBpYYol7rKQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hap32\\source\\repos\\ioc_di\\ioc_di.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hap32\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.3\\microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "C:\\Users\\hap32\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

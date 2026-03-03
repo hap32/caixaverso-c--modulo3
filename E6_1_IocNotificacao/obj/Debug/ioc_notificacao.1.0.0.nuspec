@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ioc_notificacao</id>
+    <version>1.0.0</version>
+    <authors>ioc_notificacao</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hap32\source\repos\ioc_notificacao\bin\Debug\net9.0\ioc_notificacao.runtimeconfig.json" target="lib\net9.0\ioc_notificacao.runtimeconfig.json" />
+    <file src="C:\Users\hap32\source\repos\ioc_notificacao\bin\Debug\net9.0\ioc_notificacao.dll" target="lib\net9.0\ioc_notificacao.dll" />
+  </files>
+</package>

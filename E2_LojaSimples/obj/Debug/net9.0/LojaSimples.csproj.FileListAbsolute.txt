@@ -1,0 +1,14 @@
+C:\Users\hap32\source\repos\LojaSimples\bin\Debug\net9.0\LojaSimples.exe
+C:\Users\hap32\source\repos\LojaSimples\bin\Debug\net9.0\LojaSimples.deps.json
+C:\Users\hap32\source\repos\LojaSimples\bin\Debug\net9.0\LojaSimples.runtimeconfig.json
+C:\Users\hap32\source\repos\LojaSimples\bin\Debug\net9.0\LojaSimples.dll
+C:\Users\hap32\source\repos\LojaSimples\bin\Debug\net9.0\LojaSimples.pdb
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\LojaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\LojaSimples.AssemblyInfoInputs.cache
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\LojaSimples.AssemblyInfo.cs
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\LojaSimples.csproj.CoreCompileInputs.cache
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\LojaSimples.dll
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\refint\LojaSimples.dll
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\LojaSimples.pdb
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\LojaSimples.genruntimeconfig.cache
+C:\Users\hap32\source\repos\LojaSimples\obj\Debug\net9.0\ref\LojaSimples.dll

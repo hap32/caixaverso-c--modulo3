@@ -1,0 +1,14 @@
+C:\Users\hap32\source\repos\MiniSerializerProject\bin\Debug\net8.0\MiniSerializerProject.exe
+C:\Users\hap32\source\repos\MiniSerializerProject\bin\Debug\net8.0\MiniSerializerProject.deps.json
+C:\Users\hap32\source\repos\MiniSerializerProject\bin\Debug\net8.0\MiniSerializerProject.runtimeconfig.json
+C:\Users\hap32\source\repos\MiniSerializerProject\bin\Debug\net8.0\MiniSerializerProject.dll
+C:\Users\hap32\source\repos\MiniSerializerProject\bin\Debug\net8.0\MiniSerializerProject.pdb
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\MiniSerializerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\MiniSerializerProject.AssemblyInfoInputs.cache
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\MiniSerializerProject.AssemblyInfo.cs
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\MiniSerializerProject.csproj.CoreCompileInputs.cache
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\MiniSerializerProject.dll
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\refint\MiniSerializerProject.dll
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\MiniSerializerProject.pdb
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\MiniSerializerProject.genruntimeconfig.cache
+C:\Users\hap32\source\repos\MiniSerializerProject\obj\Debug\net8.0\ref\MiniSerializerProject.dll

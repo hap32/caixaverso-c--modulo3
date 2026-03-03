@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hap32\\source\\repos\\ioc_di\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\ioc_di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\ioc_di\\application\\descontos\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|solutionrelative:application\\descontos\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\ioc_di\\application\\descontos\\descontopercentual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|solutionrelative:application\\descontos\\descontopercentual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DescontoPercentual.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Application\\Descontos\\DescontoPercentual.cs",
+              "RelativeDocumentMoniker": "Application\\Descontos\\DescontoPercentual.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Application\\Descontos\\DescontoPercentual.cs",
+              "RelativeToolTip": "Application\\Descontos\\DescontoPercentual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:13:31.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DescontoPorQuantidade.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Application\\Descontos\\DescontoPorQuantidade.cs",
+              "RelativeDocumentMoniker": "Application\\Descontos\\DescontoPorQuantidade.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Application\\Descontos\\DescontoPorQuantidade.cs",
+              "RelativeToolTip": "Application\\Descontos\\DescontoPorQuantidade.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:12:41.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:46:18.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

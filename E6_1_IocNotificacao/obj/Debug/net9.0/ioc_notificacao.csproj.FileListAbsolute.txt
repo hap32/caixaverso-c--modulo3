@@ -1,0 +1,14 @@
+C:\Users\hap32\source\repos\ioc_notificacao\bin\Debug\net9.0\ioc_notificacao.exe
+C:\Users\hap32\source\repos\ioc_notificacao\bin\Debug\net9.0\ioc_notificacao.deps.json
+C:\Users\hap32\source\repos\ioc_notificacao\bin\Debug\net9.0\ioc_notificacao.runtimeconfig.json
+C:\Users\hap32\source\repos\ioc_notificacao\bin\Debug\net9.0\ioc_notificacao.dll
+C:\Users\hap32\source\repos\ioc_notificacao\bin\Debug\net9.0\ioc_notificacao.pdb
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\ioc_notificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\ioc_notificacao.AssemblyInfoInputs.cache
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\ioc_notificacao.AssemblyInfo.cs
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\ioc_notificacao.csproj.CoreCompileInputs.cache
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\ioc_notificacao.dll
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\refint\ioc_notificacao.dll
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\ioc_notificacao.pdb
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\ioc_notificacao.genruntimeconfig.cache
+C:\Users\hap32\source\repos\ioc_notificacao\obj\Debug\net9.0\ref\ioc_notificacao.dll
