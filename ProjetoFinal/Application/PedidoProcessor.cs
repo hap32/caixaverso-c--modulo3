@@ -41,10 +41,21 @@ namespace ProjetoFinal.Application
 
         protected override void RealizarPagamento(decimal valorFinal) => _pagamento.Pagar(valorFinal);
 
-        protected override void RegistrarLog(decimal bruto, decimal descontos, decimal valorFinal)
+        protected override void RegistrarLog(Pedido pedido, decimal bruto, decimal descontos, decimal valorFinal)
         {
             _logger.Info($"Total bruto: {bruto:F2}");
             _logger.Info($"Total descontos: {descontos:F2}");
+            _logger.Info("Descontos aplicados:");
+
+            foreach (var desc in _descontos)
+            {
+                decimal valorDesc = desc.CalcularDesconto(pedido);
+                if (valorDesc > 0)
+                {
+                    _logger.Info($" - {desc.Nome}: {valorDesc:N2}");
+                }
+            }
+
             _logger.Info($"Total final: {valorFinal:F2}");
             _logger.Info($"Pagamento: {_pagamento.Nome}");
             _logger.Info("Status: Pago com sucesso");

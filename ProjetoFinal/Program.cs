@@ -7,16 +7,15 @@ using ProjetoFinal.Infrastructure.Logging;
 
 var services = new ServiceCollection();
 
-// Configuração do Container DI
 services.AddSingleton<ILogger, ConsoleLogger>();
 services.AddSingleton<IDesconto>(new DescontoPercentual(10));
 services.AddSingleton<IDesconto>(new DescontoPorQuantidade());
-services.AddScoped<IPagamento, PagamentoPix>(); // Configurável aqui
+//services.AddScoped<IPagamento, PagamentoPix>();
+services.AddScoped<IPagamento, PagamentoCartao>();
 services.AddScoped<PedidoProcessor>();
 
 var serviceProvider = services.BuildServiceProvider();
 
-// Execução do Cenário
 var mouse = new Produto { Id = 1, Nome = "Mouse", Preco = 79.90m };
 var teclado = new Produto { Id = 2, Nome = "Teclado", Preco = 159.90m };
 var headset = new Produto { Id = 3, Nome = "Headset", Preco = 249.90m };

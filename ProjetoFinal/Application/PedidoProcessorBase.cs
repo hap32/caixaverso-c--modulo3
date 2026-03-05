@@ -16,7 +16,7 @@ namespace ProjetoFinal.Application
             decimal descontos = CalcularDescontos(pedido);
             decimal valorFinal = CalcularTotalFinal(bruto, descontos);
             RealizarPagamento(valorFinal);
-            RegistrarLog(bruto, descontos, valorFinal);
+            RegistrarLog(pedido, bruto, descontos, valorFinal);
         }
 
         protected abstract void ValidarPedido(Pedido pedido);
@@ -24,6 +24,6 @@ namespace ProjetoFinal.Application
         protected abstract decimal CalcularDescontos(Pedido pedido);
         protected virtual decimal CalcularTotalFinal(decimal bruto, decimal descontos) => bruto - descontos;
         protected abstract void RealizarPagamento(decimal valorFinal);
-        protected abstract void RegistrarLog(decimal bruto, decimal descontos, decimal valorFinal);
+        protected abstract void RegistrarLog(Pedido pedido, decimal bruto, decimal descontos, decimal valorFinal);
     }
 }

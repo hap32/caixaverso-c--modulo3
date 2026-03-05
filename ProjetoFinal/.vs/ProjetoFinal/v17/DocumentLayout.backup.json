@@ -3,48 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\application\\pedidoprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:application\\pedidoprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\application\\pedidoprocessorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:application\\pedidoprocessorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\interfaces\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\interfaces\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\interfaces\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\interfaces\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\services\\descontopercentual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\services\\descontopercentual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\services\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\services\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\services\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\services\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\application\\pedidoprocessorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:application\\pedidoprocessorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\infrastructure\\logging\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,6 +31,18 @@
       "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:infrastructure\\logging\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\services\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\services\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\services\\pagamentocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\services\\pagamentocartao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\services\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\services\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\infrastructure\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:infrastructure\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,8 +51,28 @@
       "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\interfaces\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\interfaces\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\interfaces\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\interfaces\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\projetofinal\\domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F9C13-1DE8-4114-873C-8EFE71265E58}|ProjetoFinal.csproj|solutionrelative:domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,117 +142,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IPagamento.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IPagamento.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPagamento.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IPagamento.cs*",
-              "RelativeToolTip": "Domain\\Interfaces\\IPagamento.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Repositories\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Repositories\\InMemoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:33:48.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEntity.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IEntity.cs*",
-              "RelativeToolTip": "Domain\\Interfaces\\IEntity.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:33:21.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDesconto.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IDesconto.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDesconto.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IDesconto.cs*",
-              "RelativeToolTip": "Domain\\Interfaces\\IDesconto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:33:40.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\Produto.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Produto.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\Produto.cs*",
-              "RelativeToolTip": "Domain\\Entities\\Produto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:33:26.838Z",
+              "WhenOpened": "2026-03-05T17:34:27.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\Pedido.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Pedido.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\Pedido.cs*",
-              "RelativeToolTip": "Domain\\Entities\\Pedido.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:33:33.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemPedido.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\ItemPedido.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\ItemPedido.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\ItemPedido.cs*",
-              "RelativeToolTip": "Domain\\Entities\\ItemPedido.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:36:17.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PedidoProcessorBase.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Application\\PedidoProcessorBase.cs",
-              "RelativeDocumentMoniker": "Application\\PedidoProcessorBase.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Application\\PedidoProcessorBase.cs",
-              "RelativeToolTip": "Application\\PedidoProcessorBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:34:37.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PedidoProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Application\\PedidoProcessor.cs",
-              "RelativeDocumentMoniker": "Application\\PedidoProcessor.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Application\\PedidoProcessor.cs",
-              "RelativeToolTip": "Application\\PedidoProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwDMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:34:45.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "DescontoPercentual.cs",
               "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Services\\DescontoPercentual.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\DescontoPercentual.cs",
               "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Services\\DescontoPercentual.cs",
               "RelativeToolTip": "Domain\\Services\\DescontoPercentual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T17:43:03.884Z",
               "EditorCaption": ""
@@ -257,40 +174,40 @@
               "RelativeDocumentMoniker": "Domain\\Services\\DescontoPorQuantidade.cs",
               "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Services\\DescontoPorQuantidade.cs",
               "RelativeToolTip": "Domain\\Services\\DescontoPorQuantidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T17:43:21.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "PagamentoCartao.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Services\\PagamentoCartao.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\PagamentoCartao.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Services\\PagamentoCartao.cs",
+              "RelativeToolTip": "Domain\\Services\\PagamentoCartao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:18:18.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PagamentoPix.cs",
               "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Services\\PagamentoPix.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\PagamentoPix.cs",
               "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Services\\PagamentoPix.cs",
               "RelativeToolTip": "Domain\\Services\\PagamentoPix.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T17:43:34.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ConsoleLogger.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Logging\\ConsoleLogger.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Logging\\ConsoleLogger.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Logging\\ConsoleLogger.cs",
-              "RelativeToolTip": "Infrastructure\\Logging\\ConsoleLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:34:04.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "ILogger.cs",
               "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Logging\\ILogger.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Logging\\ILogger.cs",
@@ -303,41 +220,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InMemoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Repositories\\InMemoryRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\InMemoryRepository.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Repositories\\InMemoryRepository.cs*",
-              "RelativeToolTip": "Infrastructure\\Repositories\\InMemoryRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Logging\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Logging\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Logging\\ConsoleLogger.cs",
+              "RelativeToolTip": "Infrastructure\\Logging\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:34:27.224Z",
+              "WhenOpened": "2026-03-05T17:34:04.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
+              "Title": "PedidoProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Application\\PedidoProcessor.cs",
+              "RelativeDocumentMoniker": "Application\\PedidoProcessor.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Application\\PedidoProcessor.cs",
+              "RelativeToolTip": "Application\\PedidoProcessor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:34:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoProcessorBase.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Application\\PedidoProcessorBase.cs",
+              "RelativeDocumentMoniker": "Application\\PedidoProcessorBase.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Application\\PedidoProcessorBase.cs",
+              "RelativeToolTip": "Application\\PedidoProcessorBase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:34:37.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-05T18:44:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:31:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IRepository.cs",
               "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Infrastructure\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T17:34:16.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:31:50.31Z",
+              "WhenOpened": "2026-03-05T17:33:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IPagamento.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPagamento.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IPagamento.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:33:48.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IDesconto.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDesconto.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Interfaces\\IDesconto.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:33:40.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:33:26.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:33:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ItemPedido.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\Domain\\Entities\\ItemPedido.cs",
+              "RelativeToolTip": "Domain\\Entities\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:36:17.093Z",
               "EditorCaption": ""
             }
           ]

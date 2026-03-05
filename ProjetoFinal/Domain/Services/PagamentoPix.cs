@@ -10,6 +10,6 @@ namespace ProjetoFinal.Domain.Services
     public class PagamentoPix : IPagamento
     {
         public string Nome => "Pix";
-        public void Pagar(decimal valor) => Console.WriteLine($"Processando Pix de {valor:F2}...");
+        public void Pagar(decimal valor) => Console.WriteLine($"Pagamento via Pix de {valor:F2}...");
     }
 }

@@ -12,7 +12,7 @@ O projeto está organizado conforme os requisitos de entrega:
 ## 3. Regras de Negócio Implementadas
 * **Desconto Percentual**: Recebe 10% do Total Bruto.
 * **Desconto Por Quantidade**: Se o pedido tiver ≥ 5 itens no total, aplica um desconto fixo de R$ 20,00.
-* **Pagamento**: Implementação via Pix configurável por DI.
+* **Pagamento**: Implementação via Pix e Cartão de Crédito configurável por DI.
 * **Polimorfismo**: O sistema suporta novos descontos sem alterar o processador (OCP).
 
 ## 4. Instruções de Execução
