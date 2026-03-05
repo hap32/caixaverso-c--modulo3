@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hap32\\source\\repos\\ioc_notificacao\\ioc_notificacao.csproj",
+      "projectUniqueName": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_1_IocNotificacao\\ioc_notificacao.csproj",
       "projectName": "ioc_notificacao",
-      "projectPath": "C:\\Users\\hap32\\source\\repos\\ioc_notificacao\\ioc_notificacao.csproj",
+      "projectPath": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_1_IocNotificacao\\ioc_notificacao.csproj",
       "packagesPath": "C:\\Users\\hap32\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hap32\\source\\repos\\ioc_notificacao\\obj\\",
+      "outputPath": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_1_IocNotificacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

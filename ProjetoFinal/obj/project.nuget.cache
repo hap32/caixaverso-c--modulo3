@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCX1qxu/Z+s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\ProjetoFinal\\ProjetoFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hap32\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.3\\microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "C:\\Users\\hap32\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProjetoFinal.Infrastructure.Logging
+{
+    public class ConsoleLogger : ILogger
+    {
+        public void Info(string message) => Console.WriteLine($"[INFO] {message}");
+        public void Error(string message) => Console.WriteLine($"[ERRO] {message}");
+    }
+}

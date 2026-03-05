@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ioc_di")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf909aa6b525568921d90eb0cc14bb5445bc8675")]
 [assembly: System.Reflection.AssemblyProductAttribute("ioc_di")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ioc_di")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

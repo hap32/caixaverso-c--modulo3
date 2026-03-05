@@ -1,0 +1,15 @@
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\E7_1_CheckoutEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\E7_1_CheckoutEcommerce.AssemblyInfoInputs.cache
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\E7_1_CheckoutEcommerce.AssemblyInfo.cs
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\E7_1_CheckoutEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\E7_1_CheckoutEcommerce.sourcelink.json
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\bin\Debug\net9.0\E7_1_CheckoutEcommerce.exe
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\bin\Debug\net9.0\E7_1_CheckoutEcommerce.deps.json
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\bin\Debug\net9.0\E7_1_CheckoutEcommerce.runtimeconfig.json
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\bin\Debug\net9.0\E7_1_CheckoutEcommerce.dll
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\bin\Debug\net9.0\E7_1_CheckoutEcommerce.pdb
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\E7_1_CheckoutEcommerce.dll
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\refint\E7_1_CheckoutEcommerce.dll
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\E7_1_CheckoutEcommerce.pdb
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\E7_1_CheckoutEcommerce.genruntimeconfig.cache
+C:\Users\hap32\source\repos\caixaverso-c#-modulo3\E7_1_CheckoutEcommerce\obj\Debug\net9.0\ref\E7_1_CheckoutEcommerce.dll

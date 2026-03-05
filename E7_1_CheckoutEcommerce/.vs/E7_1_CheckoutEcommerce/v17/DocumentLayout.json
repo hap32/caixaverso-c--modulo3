@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e7_1_checkoutecommerce\\services\\pagamentos\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|solutionrelative:services\\pagamentos\\pagamentopix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e7_1_checkoutecommerce\\services\\pagamentos\\pagamentodebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|solutionrelative:services\\pagamentos\\pagamentodebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e7_1_checkoutecommerce\\services\\pagamentos\\pagamentocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|solutionrelative:services\\pagamentos\\pagamentocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e7_1_checkoutecommerce\\services\\comprovante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|solutionrelative:services\\comprovante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e7_1_checkoutecommerce\\models\\carrinhodecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|solutionrelative:models\\carrinhodecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e7_1_checkoutecommerce\\interfaces\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|solutionrelative:interfaces\\ipagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e7_1_checkoutecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9511EE84-8A9A-4923-A299-41F77DF6A64A}|E7_1_CheckoutEcommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarrinhoDeCompras.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Models\\CarrinhoDeCompras.cs",
+              "RelativeDocumentMoniker": "Models\\CarrinhoDeCompras.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Models\\CarrinhoDeCompras.cs",
+              "RelativeToolTip": "Models\\CarrinhoDeCompras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:36:52.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comprovante.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Services\\Comprovante.cs",
+              "RelativeDocumentMoniker": "Services\\Comprovante.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Services\\Comprovante.cs",
+              "RelativeToolTip": "Services\\Comprovante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:32:59.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagamentoCredito.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Services\\Pagamentos\\PagamentoCredito.cs",
+              "RelativeDocumentMoniker": "Services\\Pagamentos\\PagamentoCredito.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Services\\Pagamentos\\PagamentoCredito.cs",
+              "RelativeToolTip": "Services\\Pagamentos\\PagamentoCredito.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:30:51.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagamentoDebito.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Services\\Pagamentos\\PagamentoDebito.cs",
+              "RelativeDocumentMoniker": "Services\\Pagamentos\\PagamentoDebito.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Services\\Pagamentos\\PagamentoDebito.cs",
+              "RelativeToolTip": "Services\\Pagamentos\\PagamentoDebito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:30:40.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagamentoPix.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Services\\Pagamentos\\PagamentoPix.cs",
+              "RelativeDocumentMoniker": "Services\\Pagamentos\\PagamentoPix.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Services\\Pagamentos\\PagamentoPix.cs",
+              "RelativeToolTip": "Services\\Pagamentos\\PagamentoPix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:28:28.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Interfaces\\IPagamento.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPagamento.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Interfaces\\IPagamento.cs",
+              "RelativeToolTip": "Interfaces\\IPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:23:27.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E7_1_CheckoutEcommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:19:25.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

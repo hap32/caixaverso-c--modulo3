@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hap32\\source\\repos\\ioc_di\\",
+  "WorkspaceRootPath": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_2_IocDi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\ioc_di\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e6_2_iocdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\ioc_di\\application\\descontos\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e6_2_iocdi\\application\\descontos\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|solutionrelative:application\\descontos\\descontoporquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\ioc_di\\application\\descontos\\descontopercentual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|c:\\users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\e6_2_iocdi\\application\\descontos\\descontopercentual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FD67355-36F8-4662-9AAD-BEA741A568EE}|ioc_di.csproj|solutionrelative:application\\descontos\\descontopercentual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -84,37 +84,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DescontoPercentual.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Application\\Descontos\\DescontoPercentual.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_2_IocDi\\Application\\Descontos\\DescontoPercentual.cs",
               "RelativeDocumentMoniker": "Application\\Descontos\\DescontoPercentual.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Application\\Descontos\\DescontoPercentual.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_2_IocDi\\Application\\Descontos\\DescontoPercentual.cs",
               "RelativeToolTip": "Application\\Descontos\\DescontoPercentual.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIAwwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:13:31.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T19:13:31.928Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DescontoPorQuantidade.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Application\\Descontos\\DescontoPorQuantidade.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_2_IocDi\\Application\\Descontos\\DescontoPorQuantidade.cs",
               "RelativeDocumentMoniker": "Application\\Descontos\\DescontoPorQuantidade.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Application\\Descontos\\DescontoPorQuantidade.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_2_IocDi\\Application\\Descontos\\DescontoPorQuantidade.cs",
               "RelativeToolTip": "Application\\Descontos\\DescontoPorQuantidade.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAIwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T19:12:41.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T19:12:41.769Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_2_IocDi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hap32\\source\\repos\\ioc_di\\Program.cs",
+              "ToolTip": "C:\\Users\\hap32\\source\\repos\\caixaverso-c#-modulo3\\E6_2_IocDi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T15:46:18.282Z",
               "EditorCaption": ""

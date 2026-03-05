@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "E7_1_CheckoutEcommerce/1.0.0": {
+        "runtime": {
+          "E7_1_CheckoutEcommerce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E7_1_CheckoutEcommerce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
